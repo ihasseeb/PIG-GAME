@@ -1,1 +1,1 @@
-# PIG-GAME
+# PIG-GAME (Ludo star)
